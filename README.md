@@ -34,10 +34,6 @@ Founding entities may have at most 1 person each on the committee. There are no 
 
 In the event that a committee member retires or their signing keys are exposed, the remaining members of the committee must create a new multisig address with the same policy (4 of 7) that removes the retired address. This process also gives the committee the capacity to impeach inactive members of the committee, as well as the ability for the community to impeach one or more members through an info action.
 
-#### People
-
-The members of the committee will be identified prior to putting the info action on chain.
-
 ## Rationale
 
 ### Constitutionality of the Budget
