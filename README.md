@@ -55,14 +55,16 @@ Previously he served as an advisor for the Cardano (ADA) blockchain, headed bizd
     * About - Dr. Nick Schaub is the founder of SteelSwap under the pseudonym "Elder Millenial". He joined the Cardano community 4 years ago, and has been developing on Cardano for two years. He currently works with multiple DeFi protocols to perform analysis, optimization, and general advice on protocol owned liquidity management and development. His Ph.D. is in biomedical engineering, and he researches the use of artificial intelligence for medicine and biology from the design of novel architectures to development of agent swarms.
 4. Giorgio Zinetti (Cardano Foundation)
     * Twitter – @giozzi
-    * LinkedIn – linkedin.com/in/giorgio-zinetti
+    * LinkedIn – https://www.linkedin.com/in/giorgio-zinetti
     * About – Giorgio Zinetti is the Chief Technology Officer at the Cardano Foundation, where he leads the organization's technical strategy and product development, leveraging open-source innovation to shape the future of enterprise blockchain solutions. A Web3 native and passionate advocate for decentralized finance (DeFi), Giorgio has been immersed in the blockchain space since 2015. His expertise spans the development and implementation of decentralized applications, smart contracts, and scalable blockchain infrastructures. Prior to his role at the Cardano Foundation, he co-founded and served as CTO of Procivis AG, a company pioneering digital identity solutions, and spent four years as a software engineer at UBS. Giorgio holds an MSc in Computer Science from Politecnico di Milano. Fluent in Italian, English, Spanish, and German, he combines technical acumen with strategic leadership to drive innovation in the blockchain ecosystem.
 5. Massimo Morini, Ph.D.
-    * Twitter - 
-    * LinkedIn - 
-6. Darlington Koffa
-    * Twitter - 
-    * LinkedIn - 
+    * Twitter – @TheAntinomist
+    * LinkedIn – https://www.linkedin.com/in/massimo-morini-37a3246
+    * About – Massimo Morini is a leading expert in blockchain economics and decentralized finance (DeFi), with a career spanning both traditional finance and the crypto industry. He has held prominent roles, including Chief Economist at the Algorand Foundation and Head of Interest Rates & Credit Models at Intesa Sanpaolo. Morini also served as a Senior Advisor to the World Bank and the Monetary Authority of Singapore. In academia, he is a professor at institutions such as the Università della Svizzera italiana (USI) in Lugano, Bocconi University, and the Polytechnic University of Milan, where he teaches courses on blockchain technologies, cryptocurrencies, and decentralized finance.
+6. Darlington Wleh
+    * Twitter - https://x.com/LidoNation
+    * LinkedIn - https://www.linkedin.com/in/profd2004/
+    * About - Co-dreamer at Lido Nation — the Cardano-native team behind CatalystExplorer.com, 1694.io, and LidoNation.com. I’m an engineer by day, and at all times a dancer, humanitarian, idealist, and entrepreneur. With a strong foundation in cloud technologies, programming, and blockchain, I’m passionate about building tools and communities that make decentralized futures more accessible — and a little more fun.
 7. To be determined
 
 ## Rationale
