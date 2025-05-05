@@ -36,7 +36,7 @@ The administrating committee members should make themselves available to feedbac
 
 #### People
 
-Below are 6 of the 7 members of the initial administrating committee. They range in experience and background to help ensure the long term success and sustainability of the stablecoin liquidity. The 7th member is not yet confirmed, but will be identified in the withdrawal action and should not present a constitutional barrier to passing this budget.
+Below are 6 of the 7 members of the initial administrating committee. They range in experience and background to help ensure the long term success and sustainability of the stablecoin liquidity. There is an ongoing search for a 7th member of the committee and will be included in the withdrawal action.
 
 1. Linda Roland (aka CryptoFly)
     * Twitter - @cryptofly777
