@@ -62,7 +62,7 @@ Previously he served as an advisor for the Cardano (ADA) blockchain, headed bizd
     * LinkedIn – https://www.linkedin.com/in/massimo-morini-37a3246
     * About – Massimo Morini is a leading expert in blockchain economics and decentralized finance (DeFi), with a career spanning both traditional finance and the crypto industry. He has held prominent roles, including Chief Economist at the Algorand Foundation and Head of Interest Rates & Credit Models at Intesa Sanpaolo. Morini also served as a Senior Advisor to the World Bank and the Monetary Authority of Singapore. In academia, he is a professor at institutions such as the Università della Svizzera italiana (USI) in Lugano, Bocconi University, and the Polytechnic University of Milan, where he teaches courses on blockchain technologies, cryptocurrencies, and decentralized finance.
 6. Darlington Wleh
-    * Twitter - https://x.com/LidoNation
+    * Twitter - @LidoNation
     * LinkedIn - https://www.linkedin.com/in/profd2004/
     * About - Co-dreamer at Lido Nation — the Cardano-native team behind CatalystExplorer.com, 1694.io, and LidoNation.com. I’m an engineer by day, and at all times a dancer, humanitarian, idealist, and entrepreneur. With a strong foundation in cloud technologies, programming, and blockchain, I’m passionate about building tools and communities that make decentralized futures more accessible — and a little more fun.
 7. To be determined
