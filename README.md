@@ -65,7 +65,6 @@ Previously he served as an advisor for the Cardano (ADA) blockchain, headed bizd
     * Twitter - @LidoNation
     * LinkedIn - https://www.linkedin.com/in/profd2004/
     * About - Co-dreamer at Lido Nation — the Cardano-native team behind CatalystExplorer.com, 1694.io, and LidoNation.com. I’m an engineer by day, and at all times a dancer, humanitarian, idealist, and entrepreneur. With a strong foundation in cloud technologies, programming, and blockchain, I’m passionate about building tools and communities that make decentralized futures more accessible — and a little more fun.
-7. To be determined
 
 ## Rationale
 
@@ -73,20 +72,16 @@ Previously he served as an advisor for the Cardano (ADA) blockchain, headed bizd
 
 **Purpose**: This proposal is for work intended to enhance the long term sustainability of Cardano by increasing stablecoin liquidity in the ecosystem.
 
-**Article III(5)**: This proposal fulfills this section of the Cardano Constitution by containing a Title, Abstract, Reason for Proposal (Motivation and Rationale), and Supporting Materials. An off-chain copy of this proposal can be found at https://github.com/theeldermillenial/2025-liquidity-budget/README.md, and the commit and document hash are attached to the transaction to fulfill the other requirements of this section.
+**Article III(5)**: This proposal fulfills this section of the Cardano Constitution by containing a Title, Abstract, Reason for Proposal (Motivation and Rationale), and Supporting Materials. An off-chain copy of this proposal can be found at https://github.com/theeldermillenial/2025-liquidity-budget/info-action.jsonld, and the document hash is attached to the transaction to fulfill the other requirements of this section.
 
 **Article IV(1)**: We propose that this budget span 73 epochs (roughly 1 calendar year).
 
-**Article IV(2)**: Disbursements for this budget must be made to a multi-signature (multisig) wallet composed of at least seven independent administrating members with at 4 of 7 signing policy. The process of overseeing funds then requires 4 of the 7 independent administrating members agree to disbursement of funds to DeFi protocols. The wallet must be the owner of any liquidity deposited into DeFi protocols, meaning liquidity tokens or any other assurance of liquidity must be held in the multisig wallet and should not be delegated to a third party. With this design, the committee will be the administrator of the budget funds and will directly oversee distribution of funds to protocols.
+**Article IV(2)**: Disbursements for this budget must be made to a multi-signature (multisig) wallet composed of at least seven independent administrating members with at 4 of 7 signing policy. The process of overseeing funds then requires 4 of the 7 independent administrating members agree to disbursement of funds to DeFi protocols. The wallet must be the owner of any liquidity deposited into DeFi protocols, meaning liquidity tokens or any other assurance of liquidity must be held in the multisig wallet and should not be delegated to a third party, except as required for conversion of assets to fiat or minting of stablecoins. With this design, the committee will be the administrator of the budget funds and will directly oversee distribution of funds to protocols.
 
-**Article IV(3)**: At the time of submission, the NCL is currently at 350 million ADA and there are no other budgets that have been submitted on chain through an info action. We believe that this removes a potential constitutional barrier for this proposal based on Article IV(3), since this proposal requests 50 million ADA and there are currently no competing budgets.
+**Article IV(3)**: At the time of submission, the NCL is currently at 350 million ADA and there is only one budget requesting 1.5 million ADA that has been submitted on chain through an info action. We believe that this removes a potential constitutional barrier for this proposal based on Article IV(3), since this proposal requests 50 million ADA of the potential remaining 348.5 million ADA.
 
 **Article IV(4)**: We budget 2,000 ADA/month (24,000 ADA total) to cover the costs of audits and transparency. The building of a dashboard and quarterly reporting in the proposed work also fulfill the obligations of this section. Since all funds will be managed from a single account, including all liquidity holdings and disbursement of monthly stipends for administrating committee members, we believe the dashboard and monthly reports are sufficient for auditing. To further strengthen our commitment to the auditing requirement, we also commit to any community driven requests for independent audits via an Info Action, and will use funds up to the $50,000/month budget to work with an independent auditor.
 
 **Article IV Section 5**: The nature of the proposed work fulfills the first requirement of Article IV(5) of the constitution. The holding of all assets in the multisig account composed of 7 independent signers improves the ability of the Cardano community to easily audit and track actions taken by the committee. To fulfill the second part of the section, funds will not be delegated to an SPO and will be delegated to the predefined auto-abstain voting option.
 
 **TREASURY-04a**: There is not on chain withdrawal action for this budget, and one will not be submitted unless this budget achieves the necessary 50% approval.
-
-## Supporting Materials
-
-None
