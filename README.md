@@ -73,7 +73,7 @@ Previously he served as an advisor for the Cardano (ADA) blockchain, headed bizd
 
 **Purpose**: This proposal is for work intended to enhance the long term sustainability of Cardano by increasing stablecoin liquidity in the ecosystem.
 
-**Article III(5)**: This proposal fulfills this section of the Cardano Constitution by containing a Title, Abstract, Reason for Proposal (Motivation and Rationale), and Supporting Materials. An off-chain copy of this proposal is linked to as the last element of the Supporting Materials section and is a Github link with commit hash thus fulfilling the other requirement of this section to have an off-chain copy with document hash. The Supporting Materials is not included in Github version of the document since it contains the commit hash.
+**Article III(5)**: This proposal fulfills this section of the Cardano Constitution by containing a Title, Abstract, Reason for Proposal (Motivation and Rationale), and Supporting Materials. An off-chain copy of this proposal can be found at https://github.com/theeldermillenial/2025-liquidity-budget/README.md, and the commit and document hash are attached to the transaction to fulfill the other requirements of this section.
 
 **Article IV(1)**: We propose that this budget span 73 epochs (roughly 1 calendar year).
 
@@ -86,3 +86,7 @@ Previously he served as an advisor for the Cardano (ADA) blockchain, headed bizd
 **Article IV Section 5**: The nature of the proposed work fulfills the first requirement of Article IV(5) of the constitution. The holding of all assets in the multisig account composed of 7 independent signers improves the ability of the Cardano community to easily audit and track actions taken by the committee. To fulfill the second part of the section, funds will not be delegated to an SPO and will be delegated to the predefined auto-abstain voting option.
 
 **TREASURY-04a**: There is not on chain withdrawal action for this budget, and one will not be submitted unless this budget achieves the necessary 50% approval.
+
+## Supporting Materials
+
+None
