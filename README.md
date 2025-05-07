@@ -41,7 +41,7 @@ Below are 6 of the 7 members of the initial administrating committee. They range
 1. Linda Roland (aka CryptoFly)
     * Twitter - @cryptofly777
     * YouTube - https://www.youtube.com/@lindacryptofly9182
-    * About - Linda Roland is the operator of MALU Pool and has been actively contributing to the Cardano ecosystem since 2021. She’s a trusted DeFi consultant and advisor to multiple Cardano projects, known for her strategic insight and practical, user-focused thinking. Linda also creates educational videos to better inform the community of Cardano events, and improve visibility of Cardano projects. Her background is in industrial engineering and management with expertise in artificial intelligence, robotics, optimization, and supply chain logistics. She brings a strong mix of technical literacy, real-world experience, and genuine care for the people who make up Cardano.
+    * About - Linda Roland is the operator of MALU Pool and has been actively contributing to the Cardano ecosystem since 2021. She’s a trusted DeFi consultant and advisor to multiple Cardano projects, known for her strategic insight and practical, user-focused thinking. Linda also creates educational videos to better inform the community of Cardano events, and improve visibility of Cardano projects. Her background is in industrial engineering and management with expertise in robotics, optimization, and supply chain logistics. She brings a strong mix of technical literacy, real-world experience, and genuine care for the people who make up Cardano.
 2. Darren Camas (IPOR Labs)
     * Twitter - @DarrenCamas
     * LinkedIn - https://www.linkedin.com/in/dcamas/
