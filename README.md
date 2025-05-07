@@ -72,7 +72,7 @@ Previously he served as an advisor for the Cardano (ADA) blockchain, headed bizd
 
 **Purpose**: This proposal is for work intended to enhance the long term sustainability of Cardano by increasing stablecoin liquidity in the ecosystem.
 
-**Article III(5)**: This proposal fulfills this section of the Cardano Constitution by containing a Title, Abstract, Reason for Proposal (Motivation and Rationale), and Supporting Materials. An off-chain copy of this proposal can be found at https://github.com/theeldermillenial/2025-liquidity-budget/info.jsonld, and the document hash is attached to the transaction to fulfill the other requirements of this section. An easy to read version can be found at https://github.com/theeldermillenial/2025-liquidity-budget/README.md
+**Article III(5)**: This proposal fulfills this section of the Cardano Constitution by containing a Title, Abstract, Reason for Proposal (Motivation and Rationale), and Supporting Materials. An off-chain copy of this proposal can be found at https://raw.githubusercontent.com/theeldermillenial/2025-liquidity-budget/refs/heads/master/info.jsonld, and the document hash is attached to the transaction to fulfill the other requirements of this section. An easy to read version can be found at https://raw.githubusercontent.com/theeldermillenial/2025-liquidity-budget/refs/heads/master/README.md
 
 **Article IV(1)**: We propose that this budget span 73 epochs (roughly 1 calendar year).
 
