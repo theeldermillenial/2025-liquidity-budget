@@ -40,7 +40,7 @@ For the 12 month budget period:
 
 ### GOVERNANCE Protocol
 
-At the time of submission of the budget, the following properly represents the GOVERNANCE protocol. However, this may be modified by future on chain governance Info Actions that pass according to the rules of the Cardano Constitution. This is presented here for informational purposes, and the current version can be found on [GitHub](https://github.com/theeldermillenial/2025-liquidity-budget). The GitHub link is not intended to an immutable link, rather a reference for the intended location of the current version of the GOVERNANCE protocol. However, this can be modified and any Info Action modifying the protocol MUST include an immutable link to the modified protocol in the Info Action. The protocol defined here is located at [this immutable link]()
+At the time of submission of the budget, the following properly represents the GOVERNANCE protocol. However, this may be modified by future on chain governance Info Actions that pass according to the rules of the Cardano Constitution. This is presented here for informational purposes, and the current version can be found on [GitHub](https://github.com/theeldermillenial/2025-liquidity-budget/blob/master/GOVERNANCE.md). The GitHub link is not intended to an immutable link, rather a reference for the intended location of the current version of the GOVERNANCE protocol. However, this can be modified and any Info Action modifying the protocol MUST include an immutable link to the modified protocol in the Info Action. The protocol defined here is located at [this immutable link]()
 
 #### Immutable Responsibilities
 
