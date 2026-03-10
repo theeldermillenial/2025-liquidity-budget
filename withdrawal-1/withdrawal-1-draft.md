@@ -135,7 +135,7 @@ The legal entity will be a **Cayman Islands Foundation Company (FC)** with the f
 
 **Notes:**
 
-- ADA conversion calculated at $0.40/ADA. Actual ADA amount may vary based on exchange rate at time of payment.  
+- ADA conversion calculated at $0.25/ADA. Actual ADA amount may vary based on exchange rate at time of payment.  
 - Director fees are estimated; final amount depends on negotiated terms with selected directors.  
 - Registered office and supervisor services are annual fees; only Year 1 costs included in this withdrawal.  
 - Walkers Corporate Limited is an affiliate of Walkers LLP but provides services at competitive market rates. Alternative service providers may be considered if cost optimization is required.
@@ -232,7 +232,7 @@ This withdrawal does not exceed the Net Change Limit. As of submission, the NCL 
 
 **Section 7(4) — Audit allocation and oversight metrics**
 
-- 75,000 ADA is allocated for an independent security audit of the smart contract by Invariant0 LLC, covering design review, code audit, fix re-auditing, and public and internal final reports
+- 111,000 ADA is allocated for an independent security audit of the smart contract by Invariant0 LLC, covering design review, code audit, fix re-auditing, and public and internal final reports
 - Periodic independent audits of fund usage are addressed in the approved Governance Protocol and will be funded from Withdrawal 2 operational budget or fund revenue
 - The following oversight metrics will be implemented and published monthly on the Cardano governance forum:
   - Total funds held in the Amaru contract and disbursed to each service provider
